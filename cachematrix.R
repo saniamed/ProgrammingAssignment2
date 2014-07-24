@@ -1,7 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Assignment 2
+## Saniamed
 
-## Write a short comment describing this function
+
+## This function creates a matrix object that cache's its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
 
